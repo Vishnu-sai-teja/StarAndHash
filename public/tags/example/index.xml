@@ -14,7 +14,7 @@
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/trialpage/</guid>
       <description>Welcome to my new post. This is a sample post to demonstrate how to create a new post in Hugo with the PaperMod theme.
-Point 1 Point 2 Point 3 </description>
+Point 1 Point 2 Point 3 Hello </description>
     </item>
   </channel>
 </rss>
